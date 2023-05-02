@@ -1,4 +1,4 @@
-const api_url = "http://www.omdbapi.com/?i=tt3896198&apikey=fc4b9e36&t=";
+const api_url = "https://www.omdbapi.com/?i=tt3896198&apikey=fc4b9e36&t=";
 let arr = localStorage.getItem('movies');
 //here I am using localStorage to store data and transfer it among html pages
 //movies is storing all the favourite movies in localStorage
