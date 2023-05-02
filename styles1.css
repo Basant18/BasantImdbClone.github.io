@@ -1,0 +1,55 @@
+header{
+    display: flex;
+    background-color: darkslategray;
+}
+
+header i{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header h1{
+    padding-left: 10px;
+    color: white;
+}
+
+h1{
+    color: grey;
+    text-align: center;
+}
+
+img{
+    margin-left: 40%;
+    width: 20%;
+    height: 20%;
+}
+
+p{
+    text-align: center;
+    color: green;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+#plot{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: brown;
+}
+
+h4{
+    text-align: center;
+    color: blue;
+}
+
+h3{
+    text-align: center;
+}
