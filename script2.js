@@ -1,4 +1,4 @@
-const api_url = "http://www.omdbapi.com/?i=tt3896198&apikey=fc4b9e36&t=";
+const api_url = "https://www.omdbapi.com/?i=tt3896198&apikey=fc4b9e36&t=";
 //Getting ul list tag
 let list = document.getElementById('myList');
 let string;
